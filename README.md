@@ -1,6 +1,7 @@
 # dl-math-word-problem-solving
 Using Seq2Seq Model with Attention and Transformer Model to convert simple Math Word Problems to their corresponding Equations.
 
+Goal: to modify it, so it can read chinese algebra problem
 
 References:
 1. https://www.tensorflow.org/tutorials/text/transformer#top_of_page
